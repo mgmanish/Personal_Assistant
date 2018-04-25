@@ -1,0 +1,4 @@
+open the task manager 
+get me the working application list
+task manager 
+

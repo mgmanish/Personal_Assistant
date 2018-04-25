@@ -1,0 +1,3 @@
+open control panel
+goto setting for change
+installation and deinstallation of application
